@@ -1,1 +1,3 @@
-/
+Public Class Main{
+  //ciao
+}
